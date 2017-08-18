@@ -7,7 +7,7 @@ import logging
 import os
 import sys
 
-from grt import main
+from gts import main
 
 __author__ = 'Jordan Husney'
 __version__ = '0.1'
